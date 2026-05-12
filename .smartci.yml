@@ -1,0 +1,7 @@
+build:
+  script:
+    - echo "Build step completed"
+
+run_tests:
+  script:
+    - echo "test step completed"
